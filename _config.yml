@@ -1,0 +1,14 @@
+# Site settings
+title: 6th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2015)
+email: apsys2015-local-organizer (atmark) googlegroups.com
+description: > # this means to ignore newlines until "baseurl:"
+  APSys 2015 is a lively forum for systems researchers and practitioners across
+  the world to meet, interact, and collaborate with their peers from the
+  Asia/Pacific region.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://apsys2015.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
