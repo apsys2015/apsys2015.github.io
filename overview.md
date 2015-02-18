@@ -5,7 +5,6 @@ permalink: /
 order: 0
 ---
 
-
 # Overview
 
 Building on the success of its 2010-2014
@@ -46,4 +45,3 @@ See [Call for Papers in HTML](call-for-papers) or [PDF](assets/APSys15CFP.pdf) f
 * Notification to authors: June 12, 2015
 * Camera-ready due: July 1, 2015
 * Workshop: July 27-28, 2015
-
